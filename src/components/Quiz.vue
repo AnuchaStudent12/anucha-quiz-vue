@@ -106,6 +106,7 @@ const resetQuiz = () => {
   userAnswers.value = Array(quizData.value.length).fill(null);
   score.value = 0;
   submitted.value = false;
+  fullName.value = "";
 };
 
 // ===== lifecycle =====
