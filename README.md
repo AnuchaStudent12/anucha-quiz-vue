@@ -6,7 +6,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 <img width="682" height="550" alt="photo" src="https://github.com/user-attachments/assets/d0e33555-1dbd-477c-b551-f3789db64347" />
 
-## Live 
+## Live  *** Sometime Please Wait for 30 Second For Rebooot***
 
 https://anucha-quiz-vue.onrender.com
 
